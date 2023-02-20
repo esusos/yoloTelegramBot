@@ -1,5 +1,5 @@
 # yoloTelegramBot
-YOLOV1 implementation with PyTorch.  Telegram bot with pretrained YOLOV5 interated in it
+### YOLOV1 implementation with PyTorch.  Telegram bot with pretrained YOLOV5 interated in it
 
 
 The objective of this project was to implement the YOLOv1 (You Only Look Once) object detection algorithm using the PyTorch framework and to integrate it with a Telegram Bot. The YOLOv1 algorithm is a real-time object detection system that is known for its fast processing time and high accuracy. 
