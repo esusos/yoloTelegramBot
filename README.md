@@ -13,4 +13,5 @@ The YOLOv1 algorithm was implemented using *PyTorch*, an open-source machine lea
 
 Due to computational limitations, the model was not trained from scratch and instead, the already pretrained YOLOv5 model was used. This was integrated into the Telegram Bot to make the object detection process more accessible and user-friendly.
 
-
+> bot.py - Telegram bot using Telegram API
+>  
